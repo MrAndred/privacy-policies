@@ -1,19 +1,25 @@
 **Privacy Policy**
 
-This privacy policy applies to the Hexa Link: Color Puzzle app for mobile devices, together with any related services operated by Andrei Areshka (collectively, the "Application"). Andrei Areshka is hereby referred to as the "Service Provider".
+This privacy policy applies to the Hexa Link: Color Puzzle game (also published as Hex Lines) for Android devices and its web version played in a browser on game portals such as itch.io and CrazyGames, together with any related services operated by Andrei Areshka (collectively, the "Application"). Andrei Areshka is hereby referred to as the "Service Provider".
 
 **Information Collection and Use**
 
 The Application collects information when you download and use it. This information may include information such as
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   your mobile operating system you use
+*   Gameplay events: when a level is loaded, started and finished, the result, the time played, the number of moves, mistakes and dead ends, the boosters used and the in-game coin balance
+*   The platform (Android or the web portal) and the version of the Application
+
+The Application does not ask for your name, e-mail address or any account, and does not collect device identifiers, advertising identifiers or your location.
+
+**Gameplay Analytics**
+
+To understand which levels are too hard and how the in-game economy works, the Application sends the gameplay events listed above to PostHog (PostHog Inc.), an analytics service, using its servers in the European Union (EU Cloud). The events are tied only to a random session identifier that is created when the Application starts, is kept in memory and is discarded when the Application is closed; it is not stored on your device, so sessions cannot be linked to each other or to you. PostHog is configured to discard IP addresses, and no user profiles are created. The events are retained for up to 12 months. PostHog's own privacy policy is available at https://posthog.com/privacy.
+
+Your game progress (completed levels, coins and boosters) is saved only on your device, in the Application's local storage, so that you can continue playing; it is not used for analytics.
 
 **Cookies and tracking technologies**
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+The Application itself does not use cookies for analytics. In the web version, the game portal that hosts the game (for example itch.io or CrazyGames) may use its own cookies and similar technologies under its own privacy policy. The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
 **Your Rights**
 
@@ -29,7 +35,7 @@ For a better experience while using the Application, the Service Provider may re
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Gameplay events are transmitted to PostHog as described in "Gameplay Analytics" to aid the Service Provider in improving the Application. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 **International Data Transfers**
 
@@ -49,7 +55,7 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 **Opt-Out Rights**
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+You can stop further collection of information by uninstalling the Application or, in the web version, by closing it; blocking requests to posthog.com in your browser also stops the gameplay events without affecting the game. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
 To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at talkinganchovy@gmail.com.
 
@@ -84,7 +90,7 @@ The Service Provider may update this Privacy Policy from time to time. The Servi
 
 Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at talkinganchovy@gmail.com.
 
-This privacy policy is effective as of 2026-07-06
+This privacy policy is effective as of 2026-11-22
 
 **Your Consent**
 
